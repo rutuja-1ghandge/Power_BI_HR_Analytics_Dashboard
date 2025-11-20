@@ -1,7 +1,5 @@
 # Power_BI_HR_Analytics_Dashboard
 
-# Power_BI_HR_Analytics_Dashboard
-
 this project presents an HR Analytics Dashboard created using Power BI to analyse empolyee attribition, salary, age, job role distibution nad other KPIs . The dashboard helps HR 
 team to understandt workforce pattern and make data-driven decisions.
 
